@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jens a Junior Full-Stack Developer based in Berlin.
+Hi, I'm Jens and I'm a Junior Full-Stack Developer based in Berlin.
 
 Welcome everybody! 
 
