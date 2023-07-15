@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, I'm Jens a Junior Full-Stack Developer based in Berlin.
+
+Welcome everybody! 
+
 <!--
 **Jenseko/Jenseko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,tailwind,webflow,nodejs,express,mongodb,postman,figma,netlify,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,sass,tailwind,css,html,nodejs,express,mongodb,postman,figma,webflow,netlify,vscode,git,github)](https://skillicons.dev)
 
