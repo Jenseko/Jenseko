@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,tailwind,webflow,nodejs,express,mongodb,postman,figma,scrum,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,tailwind,webflow,nodejs,express,mongodb,postman,figma,netlify,vscode,git,github)](https://skillicons.dev)
 
