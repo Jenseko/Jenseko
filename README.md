@@ -15,15 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,nodejs,express,mongodb,postman)](https://skillicons.dev)
-
-Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
-
-Design
-[![My Skills](https://skillicons.dev/icons?i=figma,trello,)](https://skillicons.dev)
-
-Deployment
-[![My Skills](https://skillicons.dev/icons?i=render,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,sass,tailwind,webflow,nodejs,express,mongodb,postman,figma,scrum,netlify,vscode)](https://skillicons.dev)
 
