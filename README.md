@@ -1,14 +1,25 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenseko&label=Profile%20views&color=73ce03&style=flat" alt="jenseko" /> </p>
+
 ### Hi there 👋
 
 I'm Jens, I'm a junior web developer and I'm constantly working on my programming skills.
 
-Welcome everybody! 
+🔭  - This year I completed a full-stack web development bootcamp.
 
-📫 How to reach me: jens.koetschau@posteo.de
+👯  - Now I'm looking for a job to improve my coding skills and learn from experienced developers.
+
+🌱  - I am currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
+
+⚡  - I love retro games and trying to learn the basics of calisthenics. 😁
+
+📫  - How to reach me: jens.koetschau@posteo.de
 
 Socials
 ---------------------------------------------------
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" height="30" width="40" /></a>
+<a href="https://instagram.com/_jenseko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jenseko_" height="30" width="40" /></a>
+</p>
 
 TECH STACK
 ---------------------------------------------------
@@ -19,3 +30,10 @@ TECH STACK
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenseko&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenseko&show_icons=true&locale=en" alt="jenseko" /></p>
+
+
+
+
+
+
