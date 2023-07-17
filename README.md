@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenseko&label=Profile%20views&color=73ce03&style=flat" alt="jenseko" /> </p>
 
-### Hi there 👋
+### Hi, I'm Jens 👋
 
-I'm Jens, I'm a junior web developer and I'm constantly working on my programming skills.
+I'm a junior web developer and I'm constantly working on my programming skills.
 
 🔭  - This year I completed a full-stack web development bootcamp.
 
@@ -17,9 +17,11 @@ I'm Jens, I'm a junior web developer and I'm constantly working on my programmin
 Socials
 ---------------------------------------------------
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" height="30" width="40" /></a>
-<a href="https://instagram.com/_jenseko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jenseko_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" /></a>
+<a href="https://instagram.com/_jenseko_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_jenseko_" /></a>
 </p>
+
+
 
 TECH STACK
 ---------------------------------------------------
