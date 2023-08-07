@@ -19,7 +19,7 @@ I'm a junior web developer and I'm constantly working on my programming skills.
 
 ### Socials
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jens-kötschau" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" /></a>
+<a href="https://www.linkedin.com/in/jens-kötschau" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jens-k%c3%b6tschau-8932b8ba/" /></a>
 <a href="https://instagram.com/_jenseko_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_jenseko_" /></a>
 </p>
 
