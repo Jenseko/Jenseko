@@ -2,7 +2,7 @@
 
 # Hi, I'm Jens 👋
 
-I'm a junior web developer and I'm constantly working on my programming skills.
+I'm a junior web developer and I'm constantly working on my programming skills.  
 
 🔭  - This year I completed a full-stack web development bootcamp.
 
