@@ -4,11 +4,11 @@
 
 I'm a junior web developer and I'm constantly working on my programming skills.
 
-🔭  - 2023 I completed a full-stack web development bootcamp.
+🔭  - I successfully completed a full-stack web development bootcamp in 2023.
 
 💻  - Most used line of code ```git commit -m "Initial Commit"```
 
-👯  - Now I'm looking for a job to improve my coding skills and learn from experienced developers.
+👯  - I am currently looking for new contacts and exciting projects to constantly expand my technical skills.
 
 🌱  - I am currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
 
