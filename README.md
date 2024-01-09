@@ -2,9 +2,9 @@
 
 # Hi, I'm Jens 👋
 
-I'm a junior web developer and I'm constantly working on my programming skills.  
+I'm a junior web developer and I'm constantly working on my programming skills.
 
-🔭  - This year I completed a full-stack web development bootcamp.
+🔭  - 2023 I completed a full-stack web development bootcamp.
 
 💻  - Most used line of code ```git commit -m "Initial Commit"```
 
@@ -14,7 +14,7 @@ I'm a junior web developer and I'm constantly working on my programming skills.
 
 📫  - How to reach me: jens.koetschau@posteo.de
 
-⚡  - Fun fact: I love retro games. 😁
+⚡  - Fun fact: I love retro games and behind the scenes material from movies. 😁
 
 
 ### Socials
