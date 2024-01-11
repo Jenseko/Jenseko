@@ -4,7 +4,7 @@
 
 I'm a junior web developer and I'm constantly working on my programming skills.
 
-🔭  - I successfully completed a full-stack web development bootcamp in 2023.
+🔭  - I successfully completed a full-stack web development bootcamp in 2023.  
 
 💻  - Most used line of code ```git commit -m "Initial Commit"```
 
