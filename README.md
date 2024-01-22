@@ -4,17 +4,17 @@
 
 I'm a junior web developer and I'm constantly working on my programming skills.    
 
-🔭  - I successfully completed a full-stack web development bootcamp in 2023.   
+🔭  - I successfully completed a full-stack web development bootcamp in 2023.
 
 💻  - Most used line of code ```git commit -m "Initial Commit"```   
 
-👯  - I am currently looking for new contacts and exciting projects to constantly expand my technical skills.   
+👯  - I am currently looking for new contacts and exciting projects to constantly expand my technical skills. 
 
 🌱  - I am currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white).
 
 📫  - How to reach me: jens.koetschau@posteo.de
 
-⚡  - Fun fact: I love retro games and behind the scenes material from movies. 😁  
+⚡  - Fun fact: I love retro games and behind the scenes material from movies. 😁
 
 
 ### Socials
