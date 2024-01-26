@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenseko&label=Profile%20views&color=73ce03&style=flat" alt="jenseko" /> </p>
 
-# Hi, I'm Jens 👋
+# Hi, I'm Jens 👋   
 
-I'm a junior web developer and I'm constantly working on my programming skills.
+I'm a junior web developer and I'm constantly working on my programming skills.   
 
 🔭  - I successfully completed a full-stack web development bootcamp in 2023.
 
